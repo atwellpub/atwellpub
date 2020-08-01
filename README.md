@@ -19,7 +19,7 @@ I use this server to curate and share news, music, tutorials, and more. Please c
 
 ### Support me:
 
-* Head to Codeable to hire your next WordPress developers. [Codeable]
+* Head to [Codeable] to hire your next WordPress developers. 
 * Join my discord network. [discord]
 * Follow me on LinkedIn [linkedin]
 * More affiliated links to come! 
