@@ -27,7 +27,7 @@ I use this server to curate and share news, music, tutorials, and more. Please c
 <img align="left" alt="atwellpub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atwellpub&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/atwellpub
-[youtube]: https://youtube.com/atwellpublive
+[youtube]: https://www.youtube.com/channel/UCtTy-RcdjcJRVSublPqFgRg
 [LinkedIn]: https://linkedin.com/in/hudsonatwell
 [Join Discord]: https://discord.gg/wyrnuxG
 [my discord network]: https://discord.gg/wyrnuxG
