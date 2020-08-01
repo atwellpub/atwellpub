@@ -6,7 +6,7 @@ Thanks for checking out my page. I've been working hands on with the WordPress c
 
 I use this server to curate and share news, music, tutorials, and more. Please consider it as my personal blog, as well as a place where other WordPress developers and people from all walks of life can hang out and network.
 
-[discord-invite]
+[discord]
 
 ### Connect with me:
 
@@ -20,7 +20,7 @@ I use this server to curate and share news, music, tutorials, and more. Please c
 ### Support me:
 
 * Head to Codeable to hire your next WordPress developers. [Codeable]
-* Join my discord network. [discordinvite]
+* Join my discord network. [discord]
 * Follow me on LinkedIn [linkedin]
 * More affiliated links to come! 
 
@@ -29,5 +29,5 @@ I use this server to curate and share news, music, tutorials, and more. Please c
 [twitter]: https://twitter.com/atwellpub
 [youtube]: https://youtube.com/atwellpublive
 [linkedin]: https://linkedin.com/in/hudsonatwell
-[Discord-invite]: https://discord.gg/wyrnuxG
+[discord]: https://discord.gg/wyrnuxG
 [Codeable]: https://codeable.io/?ref=99TG1
