@@ -1,6 +1,6 @@
 ### Welcome to my GitHub library!
 
-Thanks for checking out my page. I've been working hands on with the WordPress community since 2009. I'm a product developer with a large imagination, a kind heart, and a passion for education and character development. I hope you enjoy my work across the years and continue to find many interesting things here in this GitHub library of mine! I'd like to be the Adrian Belew of the WordPress world and I still have many good years ahead of me. Please stay connected and consider joining [my discord network] for curated news, beta invites, interviews, and more. 
+Thanks for checking out my page. I'm a product developer with a large imagination and a passion for education and character development. I hope you enjoy my work across the years and continue to find many interesting things here in this GitHub library of mine! I'd like to be the Adrian Belew of the WordPress world and I still have many good years ahead of me. Please stay connected and consider joining [my discord network] for curated news, beta invites, interviews, and more. 
 
 ### Join my discord network! 
 
