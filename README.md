@@ -2,12 +2,6 @@
 
 Thanks for checking out my page. I'm a product developer with a large imagination and a passion for education and character development. I hope you enjoy my work across the years and continue to find many interesting things here in this GitHub library of mine! I'd like to be the Adrian Belew of the WordPress world and I still have many good years ahead of me. Please stay connected and consider joining [my discord network] for curated news, beta invites, interviews, and more. 
 
-### Join my discord network! 
-
-I use this server to curate and share news, music, tutorials, and more. Please consider it as my personal blog, as well as a place where other WordPress developers and people from all walks of life can hang out and network.
-
-[Join Discord]
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
