@@ -20,8 +20,6 @@ Please stay connected and consider joining [my discord network] for curated news
 * Follow me on [LinkedIn].
 * More affiliated links to come! 
 
-<img align="left" alt="atwellpub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atwellpub&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/atwellpub
 [youtube]: https://www.youtube.com/channel/UCtTy-RcdjcJRVSublPqFgRg
 [LinkedIn]: https://linkedin.com/in/hudsonatwell
