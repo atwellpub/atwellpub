@@ -15,7 +15,7 @@ Please stay connected and consider joining [my discord network] for curated news
 
 ### Support me:
 
-* Head to [Codeable] to hire your next WordPress developers. 
+* Head to [Codeable] to hire your next WordPress developer. 
 * Join [my discord network]
 
 [twitter]: https://twitter.com/atwellpub
