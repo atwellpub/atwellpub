@@ -1,8 +1,6 @@
 ### Welcome to my GitHub library!
 
-Thanks for checking out my page. All the good stuff is private or tucked into organization accounts. 
-
-Please stay connected and consider joining [my discord network] for curated news, beta invites, interviews, and more. 
+Thanks for checking out my repo. It's a work in progress. I'll see you on the other channels!
 
 ### Connect with me:
 
